@@ -8,4 +8,4 @@ An adapter to program my STM32s without the need of soldering a connector
 * Conn_02x03_Odd_Even footprint from KiCAD
 * Pinout is as following
 
-![Pinout](Documentations/pinout.png?raw=true "Pinout")
+![Pinout](Documentation/pinout.png?raw=true "Pinout")
